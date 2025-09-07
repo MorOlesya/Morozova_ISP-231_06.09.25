@@ -70,10 +70,10 @@ namespace Program
             Console.WriteLine("Задание 7");
             string name_7 = "Olesya";
             int age_7 = 18;
-            string city = "Volgograd25";
+            string city = "Volgograd";
             Console.WriteLine($"Привет, {name_7}!Тебе {age_7} лет и ты живёшь в городе {city}.");
 
-            //Задание 8
+            //Задание 8 
             Console.WriteLine();
             Console.WriteLine("Задание 8");
             Console.Write("Введите температуру цельсия: ");
